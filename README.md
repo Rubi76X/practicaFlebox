@@ -1,7 +1,7 @@
-# Practica con Flexbox
+# Práctica con Flexbox
 ### Curso Front End - Alura latam
 
-## Aprendi a posicionar los elementos de una manera mas optima, al igual que, a elaborar el diseño responsivo una pagina web de una manera mas sencilla.
+## Aprendí a posicionar los elementos de una manera más óptima. De igual modo, a elaborar el diseño responsivo de una página web de una manera más sencilla.
 
 ## Temas vistos
 - Propiedad align-items 
