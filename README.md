@@ -1,5 +1,5 @@
 # Práctica con Flexbox
-### Curso alura latam - One Next Education
+### Curso Alura Latam - One Next Education
 
 ## Aprendí a posicionar los elementos de una manera más óptima. De igual modo, a elaborar el diseño responsivo de una página web de una manera más sencilla.
 
